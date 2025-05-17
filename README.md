@@ -1,6 +1,6 @@
-# datalogic-dmc
+# project name
 
-This project creates tools to communicate with DataLogic Data Matrix Reader.
+This project is just a skeleton for new C application.
 
 ## Getting started
 
